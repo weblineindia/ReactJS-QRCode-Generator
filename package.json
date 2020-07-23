@@ -1,0 +1,54 @@
+{
+  "name": "react-weblineindia-qrcode-generator",
+  "version": "1.0.0",
+  "description": "ReactJS based QR Code / Barcode Generator.",
+  "repository": "https://github.com/weblineindia/ReactJS-QRCode-Generator",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "author": "Weblineindia",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "keywords": [
+    "react-weblineindia-qrcode-generator",
+    "react-qrcode",
+    "qrcode",
+    "qrcode-generator",
+    "reactjs-qrcode",
+    "react-barcode",
+    "barcode-generator"
+  ],
+  "dependencies": {
+    "@react-native-community/art": "^1.2.0",
+    "prop-types": "^15.7.2",
+    "qr.js": "0.0.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.23.0",
+    "chai": "^4.2.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-react": "^7.19.0",
+    "gh-pages": "^2.2.0",
+    "jsdom": "^16.2.2",
+    "jsdom-global": "^3.0.2",
+    "mocha": "^7.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-test-renderer": "^16.11.0",
+    "rimraf": "^3.0.2"
+  },
+  "peerDependencies": {
+    "react": "^16.11.0"
+  }
+}
